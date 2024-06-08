@@ -1,6 +1,6 @@
 import React from 'react';
-import {FaQuoteLeft,FaQuoteRight,FaGem} from 'react-icons/fa';
-import {FiChevronLeft, FiChevronRight} from "react-icons/fi";
+import {FaQuoteLeft,FaQuoteRight} from 'react-icons/fa';
+
 
 const Card = (props) => {
 
